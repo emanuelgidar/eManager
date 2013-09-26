@@ -1,5 +1,7 @@
-﻿using System;
+﻿using eManager.Web.Infrastructure;
+using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
@@ -23,6 +25,9 @@ namespace eManager.Web
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
+
+            Database.SetInitializer<DepartmentDB>(new Devtalk.EF.CodeFirst.DontDropDbJustCreateTablesIfModelChanged<DepartmentDB>());
+
         }
     }
 }
