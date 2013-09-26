@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eManager.Domain", "eManger.Domain\eManager.Domain.csproj", "{597A6C98-B4BA-4DCD-A612-ED26095CE2AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eManager.Web", "eManager.Web\eManager.Web.csproj", "{1AE9CA86-3305-4A6D-BB81-454DB8D35EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597A6C98-B4BA-4DCD-A612-ED26095CE2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597A6C98-B4BA-4DCD-A612-ED26095CE2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597A6C98-B4BA-4DCD-A612-ED26095CE2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597A6C98-B4BA-4DCD-A612-ED26095CE2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE9CA86-3305-4A6D-BB81-454DB8D35EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE9CA86-3305-4A6D-BB81-454DB8D35EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE9CA86-3305-4A6D-BB81-454DB8D35EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE9CA86-3305-4A6D-BB81-454DB8D35EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\gidaremanuel\documents\visual studio 2012\Projects\eManager\eManger.Domain\obj\Debug\eMangaer.Domain.csprojResolveAssemblyReference.cache
+c:\users\gidaremanuel\documents\visual studio 2012\Projects\eManager\eManger.Domain\bin\Debug\eManger.Domain.dll
+c:\users\gidaremanuel\documents\visual studio 2012\Projects\eManager\eManger.Domain\bin\Debug\eManger.Domain.pdb
+c:\users\gidaremanuel\documents\visual studio 2012\Projects\eManager\eManger.Domain\obj\Debug\eManger.Domain.dll
+c:\users\gidaremanuel\documents\visual studio 2012\Projects\eManager\eManger.Domain\obj\Debug\eManger.Domain.pdb
